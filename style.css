@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    margin: 20px;
+    background-color: aliceblue;
+    padding: 20px;
+
+}
+
+.h1{
+    color: black;
+}
+.PARA1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10PX;
+    color: burlywood;
+}
+.PARA{
+    color: aqua;
+}
+
+.PP{
+    color: black;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
