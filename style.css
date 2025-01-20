@@ -14,13 +14,16 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 10PX;
     color: burlywood;
+    text-align: center;
 }
 .PARA{
     color: aqua;
+    text-align: center;
 }
 
 .PP{
     color: black;
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
