@@ -8,25 +8,29 @@ body{
 }
 
 .h1{
-    color: black;
+    color: rgb(113, 22, 216);
 }
 .PARA1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 10PX;
     color: burlywood;
     text-align: center;
-    background-color: black;
+    background-color: rgb(35, 202, 91);
 }
 .PARA{
     color: aqua;
     text-align: center;
-    background-color: rgb(21, 21, 27);
+    background-color: rgb(65, 65, 209);
 }
 
 .PP{
-    color: black;
+    color: rgb(167, 19, 19);
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     background-color: rgb(241, 119, 119);
+}
+
+.Boka{
+    font-family: 'Times New Roman', Times, serif;
 }
