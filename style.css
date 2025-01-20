@@ -15,10 +15,12 @@ body{
     font-size: 10PX;
     color: burlywood;
     text-align: center;
+    background-color: black;
 }
 .PARA{
     color: aqua;
     text-align: center;
+    background-color: rgb(21, 21, 27);
 }
 
 .PP{
@@ -26,4 +28,5 @@ body{
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    background-color: rgb(241, 119, 119);
 }
